@@ -19,7 +19,7 @@
 import LoginTop from "./common/LoginTop";
 import loginMain from "./common/loginMain";
 export default {
-  name: "register",
+  name: "login",
   components: {
     LoginTop,
     loginMain,
